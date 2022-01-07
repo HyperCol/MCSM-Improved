@@ -318,7 +318,7 @@ app.use("/fs", require("./onlinefs/controller/function"));
 
     MCSERVER.infoLog("INFO", "配置文件: property.js 文件");
     MCSERVER.infoLog("INFO", "新版本已经可供使用，可以前往 Github 了解");
-    MCSERVER.infoLog("INFO", "Github & 文档参阅: https://github.com/suwings/mcsmanager");
+    MCSERVER.infoLog("INFO", "Github & 文档参阅: https://github.com/HyperCol/MCSM-Improved");
 
     if (MCSERVER.allError <= 0) {
       MCSERVER.infoLog("INFO", "控制面板已经启动");

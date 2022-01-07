@@ -11,9 +11,9 @@ const os = require("os");
 //这样, 用户截图时, 可以知道具体的版本
 //请用户尽可能的不要修改本文件任何代码，因为每一次版本更新时，必定会冲突
 
-const verisonA = "8.7.0 发行版本"; //发行版本
+const verisonA = "8.7.1 开发版本 1"; //发行版本
 
-const verisonB = "No.20211110-02"; //版本批次
+const verisonB = "No.20220107-01"; //版本批次
 
 let info = [os.type(), os.arch(), os.hostname(), os.release()].join(" ");
 
