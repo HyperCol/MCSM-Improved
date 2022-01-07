@@ -1,11 +1,14 @@
 {
-  "name": "mcsmanager",
-  "version": "8.7.0",
+  "name": "mcsm-improved",
+  "version": "8.7.1-dev1",
   "description": "A Minecraft server web panel",
   "main": "app.js",
-  "author": "Suwings",
+  "author": "HyperCol",
   "readmeFilename": "README.md",
-  "license": "MIT",
+  "license" : {
+    "type" : "GPL",
+    "url" : "https://www.gnu.org/licenses/gpl-3.0-standalone.html"
+  },
   "dependencies": {
     "body-parser": "^1.17.2",
     "colors": "^1.1.2",

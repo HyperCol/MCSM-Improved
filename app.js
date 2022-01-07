@@ -45,14 +45,16 @@
  */
 
 // 软件终端图标输出
-console.log(`______  _______________________  ___                                         
+console.log(`
+______  _______________________  ___                                         
 ___   |/  /_  ____/_  ___/__   |/  /_____ _____________ _______ _____________
 __  /|_/ /_  /    _____ \\__  /|_/ /_  __  /_  __ \\  __  /_  __  /  _ \\_  ___/
 _  /  / / / /___  ____/ /_  /  / / / /_/ /_  / / / /_/ /_  /_/ //  __/  /    
 /_/  /_/  \\____/  /____/ /_/  /_/  \\__,_/ /_/ /_/\\__,_/ _\\__, / \\___//_/     
-                                                        /____/             
- + Copyright Suwings All rights reserved.
- + Version 8.7 Final Edition
+I M P R O V E D                                         /____/             
+ + Improved HyperCol Team, All rights reserved
+ + Discontinued upstream by Suwings.
+ + Version 8.7.1-dev1
 `);
 
 // 运行时环境检测
