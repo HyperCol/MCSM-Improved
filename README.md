@@ -114,7 +114,7 @@ tar -zxvf node-v12.16.1-linux-x64.tar.gz
 ln -s /opt/node-v12.16.1-linux-x64/bin/node /usr/bin/node
 ln -s /opt/node-v12.16.1-linux-x64/bin/npm /usr/bin/npm
 # 克隆仓库(若没有 git，请安装它，如 apt install -y git)
-git clone https://github.com/suwings/mcsmanager.git
+git clone https://github.com/MCSManager/MCSManager.git
 # 进入目录
 cd mcsmanager/
 # 安装依赖库
@@ -266,11 +266,5 @@ npm start
 欢迎发现任何 BUG 及时反馈，必当及时修复。
 
 若发现严重安全漏洞又不便公开发布，请发送邮件至: Suwings@outlook.com，安全问题修复后将在代码中附加漏洞发现者姓名。
-
-<br />
-
-开源协议
------------
-MIT License
 
 <br />
