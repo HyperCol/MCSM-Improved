@@ -52,7 +52,7 @@ __  /|_/ /_  /    _____ \\__  /|_/ /_  __  /_  __ \\  __  /_  __  /  _ \\_  ___/
 _  /  / / / /___  ____/ /_  /  / / / /_/ /_  / / / /_/ /_  /_/ //  __/  /    
 /_/  /_/  \\____/  /____/ /_/  /_/  \\__,_/ /_/ /_/\\__,_/ _\\__, / \\___//_/     
 I M P R O V E D                                         /____/             
- + Improved HyperCol Team, All rights reserved
+ + Improved by HyperCol Team, All rights reserved
  + Discontinued upstream by Suwings.
  + Version 8.7.1-dev1
 `);
