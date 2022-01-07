@@ -4,7 +4,7 @@ const http = require("http");
 //最新动态信息获取模块
 
 //官方新闻API接口
-let newsUrl1 = "http://ck-1252779578.cos.ap-shanghai.myqcloud.com/mcsm-im/news.js" + Date.parse(new Date());
+let newsUrl1 = "http://ck-1252779578.cos.ap-shanghai.myqcloud.com/mcsm-im/news.js?_=" + Date.parse(new Date());
 
 let requestNewsUrl = newsUrl1;
 let requestNewsCount = 1;
